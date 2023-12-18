@@ -25,29 +25,20 @@ export function AboutSection() {
 						}}
 					>
 						<p>
-							My name is Vasile. I successfully graduated Technical University of Moldova, computer
-							science faculty.
+							Greetings! I'm Sangita, a seasoned MERN Stack Developer, where my love for coding meets a penchant for eloquent writing.
 						</p>
 						<p>
-							During my university years, I developed a deep passion for web programming, and I
-							consistently engaged in learning new concepts and techniques in this field.
+							With a passion deeply rooted in technology, I specialize in developing robust web applications using a spectrum of cutting-edge technologies. My proficiency spans across multiple programming languages, including Java, SQL, and the MERN stack - MongoDB, Express.js, Node.js, React.js, and Next.js.
 						</p>
-						<p>So, officially, my programming journey began in 2017 as a WordPress developer.</p>
+						<p>My journey in the world of coding has equipped me with the skills to architect scalable and efficient solutions, blending creativity with technical precision.</p>
 						<p className="my-3.5">
-							I enjoy learning technologies that interest me, which is why I dedicated a significant
-							amount of time to working with WordPress.
+							I take pride in my ability to transform innovative ideas into tangible, user-friendly experiences, ensuring that every project I undertake is not just functional but also aesthetically pleasing.
 						</p>
 						<p>
-							One day, I decided to try something new, and I started learning React. I was so
-							excited to see how fast I can build a website with it, and how easy it is to maintain
-							it. Consequently, I quickly learnt Next.js and I used it to build some company
-							projects working in a team with a backend dev.
+							Beyond the realm of coding, I extend my expertise to technical content writing. Armed with a wealth of knowledge, I craft engaging and informative articles that bridge the gap between complex concepts and user-friendly content.
 						</p>
 						<p className="my-3.5">
-							In december 2023, I had an opportunity to start working as a React developer for a
-							company with the possibility of transitioning to mobile development. I was skeptical
-							about it at first, but I decided to give it a try, and I don&lsquo;t regret it. Now, I
-							thoroughly enjoy working with Flutter and Dart.
+							In the ever-evolving landscape of technology, I am dedicated to continuous learning and growth. Let's embark on a journey of innovation and excellence together. Welcome to my portfolio!
 						</p>
 					</div>
 				</div>

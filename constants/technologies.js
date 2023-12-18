@@ -23,7 +23,6 @@ export const TECHNOLOGIES = [
 		category: "Front-end",
 		items: [
 			{ name: "HTML", icon: <AiFillHtml5 size={32} /> },
-			{ name: "CSS", icon: <DiCss3 size={32} /> },
 			{ name: "JS", icon: <IoLogoJavascript size={32} /> },
 			{ name: "React", icon: <FaReact size={32} /> },
 			{ name: "Next", icon: <TbBrandNextjs size={32} /> },
